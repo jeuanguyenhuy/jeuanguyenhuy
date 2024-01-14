@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeuanguyenhuy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 👀 I’m interested in coding, reading, listening to music.
+- 🌱 I’m currently learning Java, HTML.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
