@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeuanguyenhuy
+- 👋 Hi, I’m NGUYEN HUY
 - 👀 I’m interested in coding, reading, listening to music.
 - 🌱 I’m currently learning Java, HTML.
 - 💞️ I’m looking to collaborate on 
