@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NGUYEN HUY
 - 👀 I’m interested in coding, reading, listening to music.
-- 🌱 I’m currently learning Java, HTML.
+- 🌱 I’m currently learning Java, HTML,CSS, JavaScript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
